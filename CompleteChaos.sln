@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompleteChaos", "CompleteChaos.csproj", "{18339AF9-A512-45FA-AAE0-EF8DE7E3D7DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18339AF9-A512-45FA-AAE0-EF8DE7E3D7DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18339AF9-A512-45FA-AAE0-EF8DE7E3D7DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18339AF9-A512-45FA-AAE0-EF8DE7E3D7DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18339AF9-A512-45FA-AAE0-EF8DE7E3D7DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
