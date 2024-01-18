@@ -165,7 +165,7 @@ public class Main : BloonsTD6Mod
 
     public override void OnMainMenu()
     {
-        Maps = GameData._instance.mapSet.maps.Where(x => Game.instance.GetBtd6Player().IsMapUnlocked(x.id))
+        Maps = GameData._instance.mapSet.Maps.items.Where(x => Game.instance.GetBtd6Player().IsMapUnlocked(x.id))
             .Select(x => x.id).ToHashSet();
     }
 
